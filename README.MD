@@ -50,13 +50,6 @@ Los gráficos son interactivos y permiten entender mejor el comportamiento de lo
 El usuario puede filtrar variables y observar cambios en tiempo real.  
 Esto mejora la comprensión del análisis de forma dinámica.
 
-Conclusiones: El proyecto permitió analizar el comportamiento de usuarios de una plataforma de streaming.
-Se identificaron patrones claros en el consumo de contenido y diferencias entre planes de suscripción.
-El PCA facilitó la visualización de estructuras ocultas en los datos.
-Los resultados obtenidos pueden ser utilizados para segmentación de usuarios.
-El trabajo demuestra la utilidad de la minería de datos para la toma de decisiones.
-
-
 Cómo ejecutar localmente:  "1. Clonar el repositorio:
    bass
    git clone https://github.com/Annamalag/PI_Mineria_Datos_1-.git
@@ -64,6 +57,12 @@ Cómo ejecutar localmente:  "1. Clonar el repositorio:
    pip install -r requirements.txt
    3.Ejecutar la aplicación:
    python -m streamlit run app/Home.py"
+
+Conclusiones: El proyecto permitió analizar el comportamiento de usuarios de una plataforma de streaming.
+Se identificaron patrones claros en el consumo de contenido y diferencias entre planes de suscripción.
+El PCA facilitó la visualización de estructuras ocultas en los datos.
+Los resultados obtenidos pueden ser utilizados para segmentación de usuarios.
+El trabajo demuestra la utilidad de la minería de datos para la toma de decisiones.
 
 
 

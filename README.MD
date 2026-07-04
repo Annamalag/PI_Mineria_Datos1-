@@ -51,13 +51,14 @@ El usuario puede filtrar variables y observar cambios en tiempo real.
 Esto mejora la comprensión del análisis de forma dinámica.
 
 Cómo ejecutar localmente: 
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/Annamalag/PI_Mineria_Datos_1-.git
-2.Instalar dependencias:
-pip install -r requirements.txt
-3.Ejecutar la aplicación:
-python -m streamlit run app/Home.py
+    1. Clonar el repositorio:
+   bass
+   git clone https://github.com/Annamalag/PI_Mineria_Datos_1-.git
+   2.Instalar dependencias:
+   pip install -r requirements.txt
+   3.Ejecutar la aplicación:
+   python -m streamlit run app/Home.py
+
 
 Conclusiones: El proyecto permitió analizar el comportamiento de usuarios de una plataforma de streaming.
 Se identificaron patrones claros en el consumo de contenido y diferencias entre planes de suscripción.
